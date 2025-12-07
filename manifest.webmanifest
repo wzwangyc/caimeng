@@ -1,0 +1,19 @@
+{
+  "name": "财萌共识圈",
+  "short_name": "财萌共识圈",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#FF6600",
+  "lang": "zh-CN",
+  "description": "A gamified, Gen-Z focused financial consensus visualization tool for Ping An Securities.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
